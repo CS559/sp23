@@ -169,43 +169,33 @@ svg-tutorial:
 tools22:
   url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/559tools/
   name: "Tools for 559"
-  checked: 1/13/22
 typed-js:   # move to tutorials
   name: "Typed JavaScript and CS559"
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/typed-js/
-  checked: 1/13/22
-javascript:
+  url: https://cs559.github.io/559Tutorials/javascript/typed-js/
+javascript22:
   url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/javascript559/
   name: "Javascript in CS559"
-  checked: 1/13/22
-workbooks:
+workbooks22:
   url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/workbooks/
   name: Workbooks
-  checked: 1/13/22
-getting-started:
+getting-started22:
   url: https://pages.graphics.cs.wisc.edu/559-sp22/posts/getting-started/
   name: "Getting Started"
-  checked: 1/13/22
-git:
+git22:
   url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/git559/
   name: "Git and GitHub in CS559"
-  checked: 1/13/22
-vscode:
+vscode22:
   url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/vscode559/
   name: "Visual Studio Code (VSCode) for CS559"
-  checked: 1/13/22
 course-web:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/
+  url: https://pages.graphics.cs.wisc.edu/559-sp23/
   name: "Course Web"
-  checked: 1/13/22
-books:
+books22:
   name: "Books Page"
   url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/books/
-  checked: 1/17/22
 traditional-oop-js:
   name: "Traditional Object Oriented Programming in JavaScript"
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/oop-in-js-1/
-  checked: 1/17/22
+  url: https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
 
 # Web tutorials and references
 request-animation-frame:
@@ -232,11 +222,9 @@ template-literals:
 closure-tutorial-video:
   url: https://mediaspace.wisc.edu/media/Lecture%2002%3A%2001_28_2021%20Bonus%20video%3A%20Closures/1_6e7qmca0
   name: "Closure Tutorial"
-  checked: 1/17/22
 debug-tutorial:
   url: https://github.com/CS559/DebuggerTutorial
   name: "Debugger Tutorial #1"
-  checked: 1/17/22
 canvas-cheat-sheet:
   url: https://simon.html5.org/dump/html5-canvas-cheat-sheet.html
   name: "Canvas Cheat Sheet: "
@@ -246,7 +234,7 @@ marinacci-canvas:
 marinacci-canvas-ch01:
   url: https://joshondesign.com/p/books/canvasdeepdive/chapter01.html
   name: "first chapter"
-transform-demos:
+transform-demos22:
   name: "2D Transform Demos"
   url: https://cs559.github.io/2DTransformDemos/
 
