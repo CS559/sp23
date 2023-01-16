@@ -11,16 +11,16 @@
 #   cfile - canvas files (auto generated db)
 
 ## Forms for 2022
-regrade-form:
+regrade-form22:
   name: "Regrade Form"
   url: "https://forms.gle/d8qva1PwxuzFnHRv6"
-appointment-scheduling-form:
+appointment-scheduling-form22:
   name: "Appointment Scheduling Form"
   url: "https://forms.gle/AT4qe8yKfnYCmoRw8"
-consulting-assistance-form:
+consulting-assistance-form22:
   name: "Consulting Assistance Form"
   url: "https://forms.gle/WgpVMHX82V3T5H8w6"
-very-late-form:
+very-late-form22:
   name: "Very Late Workbook Form"
   url: "https://forms.gle/rzqSzqVqrgoN5FZh6"
 
@@ -33,6 +33,9 @@ gleicher-home:
 outline-2021:
   name: "2021 Course Outline with Video Links"
   url: https://pages.graphics.cs.wisc.edu/559-sp21/pages/lecture-materials/
+outline-2022:
+  name: "2022 Course Outline with Video Links"
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/lecture-materials/
 
 ## Class Videos
 video-git-a:
@@ -68,38 +71,40 @@ writing-learning-outcomes:
   url: https://assessment.provost.wisc.edu/student-learning-outcomes/writing-student-learning-outcomes/ 
   name: "Writing Learning Outcomes (UW Provost's Office)"
 
-## links to canvas - these were set for 2022
+## links to canvas - these were set for 2022, updated to 2023 
+## Canvas 22 was 293042
+## Piazza 22 was ky3ttm1xndz5h2
 canvas:
   name: "Canvas"
-  url: https://canvas.wisc.edu/courses/293042
+  url: https://canvas.wisc.edu/courses/343665
 canvas-files:
   name: "Canvas Files"
-  url: https://canvas.wisc.edu/courses/293042/files
+  url: https://canvas.wisc.edu/courses/343665/files
 piazza-direct:
   name: "Piazza"
-  url: https://piazza.com/class/ky3ttm1xndz5h2
+  url: https://piazza.com/class/lcqup622tfi4lp
 piazza:
   name: "Piazza"
-  url: https://canvas.wisc.edu/courses/293042/external_tools/65
+  url: https://canvas.wisc.edu/courses/343665/external_tools/65
 canvas-zoom:
   name: "Canvas Zoom List"
-  url: https://canvas.wisc.edu/courses/123974/external_tools/14064
+  url: https://canvas.wisc.edu/courses/343665/external_tools/14065
 canvas-calendar:
   name: "Canvas Calendar (no Zoom?)"
-  url: https://canvas.wisc.edu/calendar?include_contexts=course_293042
+  url: https://canvas.wisc.edu/calendar?include_contexts=course_343665
 canvas-summary:
   name: "Canvas Summary (calendar list)"
-  url: https://canvas.wisc.edu/courses/293042/external_tools/16911
+  url: https://canvas.wisc.edu/courses/343665/external_tools/16911
 
 ## Books in Canvas - unfortunately, can't do this with the file list
 fcg-canvas:
   name: "Fundamentals of Computer Graphics (Canvas Folder)"
-  url: https://canvas.wisc.edu/courses/293042/files/folder/FundamentalsOfComputerGraphics
+  url: https://canvas.wisc.edu/courses/343665/files/folder/Books/FundamentalsOfComputerGraphics
 rtr-canvas:
   name: "Real-Time Rendering (Canvas Folder)"
-  url: https://canvas.wisc.edu/courses/293042/files/folder/Real-Time-Rendering
+  url: https://canvas.wisc.edu/courses/343665/files/folder/Books/Real-Time-Rendering
 hart-canvas:
-  url: https://canvas.wisc.edu/courses/293042/files/folder/Hart%20Book
+  url: https://canvas.wisc.edu/courses/343665/files/folder/Books/Hart%20Book
   name: "Big Fun Book of Computer Graphics, Hart's Draft (Canvas Folder)"
 
 # Books via Amazon
@@ -127,49 +132,45 @@ mozilla-svg:
 
 # CS559 Tutorials Past
 color:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/color/
+  url: https://cs559.github.io/559Tutorials/color/color1/
   name: "CS559 Color Tutorial"
 points-vectors:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/points-vectors/
+  url: https://cs559.github.io/559Tutorials/math/points-vectors/
   name: "CS559 Tutorial: Points, Vectors, Coordinate Systems"
 raster-vector:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/images-vs-objects/
+  url: https://cs559.github.io/559Tutorials/types-of-pictures/images-vs-objects/
   name: "CS559 Tutorial: Image-Based vs. Object-Based Graphics"
 what-is-pixel:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/pixels/
+  url: https://cs559.github.io/559Tutorials/types-of-pictures/pixels/
   name: "CS559 Tutorial: What is a Pixel"
 svg1:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/svg1/
+  url: https://cs559.github.io/559Tutorials/svg/svg1/
   name: "CS559 SVG Tutorial Part 1: Getting Started with SVG"
 svg2:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/svg2/
+  url: https://cs559.github.io/559Tutorials/svg/svg2/
   name: "CS559 SVG Tutorial Part 2: Coordinate Systems"
 svg3:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/svg3/
+  url: https://cs559.github.io/559Tutorials/svg/svg3/
   name: "CS559 SVG Tutorial Part 3: Manipulating Primitives"
 svg4:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/svg4/
+  url: https://cs559.github.io/559Tutorials/svg/svg4/
   name: "CS559 SVG Tutorial Part 4: Groups, Transformations, Re-Use and Hierarchies"
 svg5:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/svg5/
+  url: https://cs559.github.io/559Tutorials/svg/svg5/
   name: "CS559 SVG Tutorial Part 5: Transformations and Composition"
 svg6:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/svg6/
+  url: https://cs559.github.io/559Tutorials/svg/svg6/
   name: "CS559 SVG Tutorial Part 6: Paths and Beziers"
 svg-tutorial:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/
+  url: https://cs559.github.io/559Tutorials/svg/
   name: "CS559 SVG Tutorial"
 
-2021-wb3-gallery:
-  url: http://pages.graphics.cs.wisc.edu/559-sp21/gallery/wb03/
-  name: "2021 Workbook 3 Gallery"
-
-# Course Web (Spring 2022)
-tools:
+# Course Web (Spring 2022 -> 23)
+tools22:
   url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/559tools/
   name: "Tools for 559"
   checked: 1/13/22
-typed-js:
+typed-js:   # move to tutorials
   name: "Typed JavaScript and CS559"
   url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/typed-js/
   checked: 1/13/22
