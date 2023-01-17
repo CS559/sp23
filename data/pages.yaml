@@ -175,27 +175,27 @@ tools:
 typed-js:   # move to tutorials
   name: "Typed JavaScript and CS559"
   url: https://cs559.github.io/559Tutorials/javascript/typed-js/
-javascript22:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/javascript559/
+javascript:
+  url: https://pages.graphics.cs.wisc.edu/559-sp23/pages/javascript559/
   name: "Javascript in CS559"
-workbooks22:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/workbooks/
+workbooks:
+  url: https://pages.graphics.cs.wisc.edu/559-sp23/pages/workbooks/
   name: Workbooks
-getting-started22:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/posts/getting-started/
+getting-started:
+  url: https://pages.graphics.cs.wisc.edu/559-sp23/posts/getting-started/
   name: "Getting Started"
-git22:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/git559/
+git:
+  url: https://pages.graphics.cs.wisc.edu/559-sp23/pages/git559/
   name: "Git and GitHub in CS559"
-vscode22:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/vscode559/
+vscode:
+  url: https://pages.graphics.cs.wisc.edu/559-sp23/pages/vscode559/
   name: "Visual Studio Code (VSCode) for CS559"
 course-web:
   url: https://pages.graphics.cs.wisc.edu/559-sp23/
   name: "Course Web"
-books22:
+books:
   name: "Books Page"
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/books/
+  url: https://pages.graphics.cs.wisc.edu/559-sp23/pages/books/
 traditional-oop-js:
   name: "Traditional Object Oriented Programming in JavaScript"
   url: https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
