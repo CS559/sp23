@@ -106,6 +106,9 @@ rtr-canvas:
 hart-canvas:
   url: https://canvas.wisc.edu/courses/343665/files/folder/Books/Hart%20Book
   name: "Big Fun Book of Computer Graphics, Hart's Draft (Canvas Folder)"
+pla-canvas:
+  url: https://canvas.wisc.edu/courses/343665/files/folder/Books/PracticalLinearAlgebra
+  name: "Practical Linear Algebra Chapters on Canvas"
 
 # Books via Amazon
 fcg-amazon:
@@ -166,8 +169,8 @@ svg-tutorial:
   name: "CS559 SVG Tutorial"
 
 # Course Web (Spring 2022 -> 23)
-tools22:
-  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/559tools/
+tools:
+  url: https://pages.graphics.cs.wisc.edu/559-sp23/pages/559tools/
   name: "Tools for 559"
 typed-js:   # move to tutorials
   name: "Typed JavaScript and CS559"
