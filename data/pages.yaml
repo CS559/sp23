@@ -237,7 +237,7 @@ marinacci-canvas:
 marinacci-canvas-ch01:
   url: https://joshondesign.com/p/books/canvasdeepdive/chapter01.html
   name: "first chapter"
-transform-demos22:
+transform-demos:
   name: "2D Transform Demos"
   url: https://cs559.github.io/2DTransformDemos/
 
@@ -593,6 +593,14 @@ wb02-gallery-21:
 wb03-gallery-21: 
   url: https://pages.graphics.cs.wisc.edu/559-sp21/gallery/wb03/
   name: "2021 Workbook 3 Gallery"
+
+# 2022 Galleries
+wb02-gallery-22:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/gallery/gallery02/
+  name: "2022 Workbook 2 Gallery"
+wb03-gallery-22:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/gallery/gallery03/
+  name: "2022 Workbook 3 Gallery"
 
 # Graphics Town Things
 grtown-rubric:
