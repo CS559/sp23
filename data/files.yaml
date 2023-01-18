@@ -1,523 +1,1234 @@
-# Fetched from Canvas Jan 16, 2022 - 09:46PM
+# Fetched from Canvas Jan 18, 2023 - 09:45AM
+00-JSTips-before.pdf:
+  filename: 00-JSTips-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 151628
+  size_str: 0.2mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140577/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140577/
+00-JSTips-post.pdf:
+  filename: 00-JSTips-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 2053967
+  size_str: 2.1mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140578/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140578/
+01-getting-started.pdf:
+  filename: 01-getting-started.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 3086522
+  size_str: 3.1mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140533/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140533/
 01git-A-git-for-workbooks-post.pdf:
   filename: 01git-A-git-for-workbooks-post.pdf
   folder: LectureNotes-2021-Recommended
   folder_path: course files/LectureNotes-2021-Recommended
   size: 2784036
   size_str: 2.8mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924282/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924282/
+  updated: 2023-01-12 09:13:20-06:00
+  url: https://canvas.wisc.edu/files/30140489/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140489/
 01git-B-how-git-works-post.pdf:
   filename: 01git-B-how-git-works-post.pdf
   folder: LectureNotes-2021-Recommended
   folder_path: course files/LectureNotes-2021-Recommended
   size: 886480
   size_str: 0.9mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924281/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924281/
+  updated: 2023-01-12 09:13:19-06:00
+  url: https://canvas.wisc.edu/files/30140454/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140454/
+02-Pre-Graphics-before.pdf:
+  filename: 02-Pre-Graphics-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 263873
+  size_str: 0.3mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140538/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140538/
+02-Pre-Graphics-post.pdf:
+  filename: 02-Pre-Graphics-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1932671
+  size_str: 1.9mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140540/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140540/
+03-1-Graphics101-post.pdf:
+  filename: 03-1-Graphics101-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 2337600
+  size_str: 2.3mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140544/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140544/
+03-2-WebGraphics-post.pdf:
+  filename: 03-2-WebGraphics-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 491832
+  size_str: 0.5mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140545/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140545/
+04-More2DGraphics-before.pdf:
+  filename: 04-More2DGraphics-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 431981
+  size_str: 0.4mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140546/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140546/
+04-More2DGraphics-post.pdf:
+  filename: 04-More2DGraphics-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 2241116
+  size_str: 2.2mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140548/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140548/
+05-Transformations-1-before.pdf:
+  filename: 05-Transformations-1-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 260444
+  size_str: 0.3mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140549/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140549/
+05-Transformations-1-post.pdf:
+  filename: 05-Transformations-1-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1362992
+  size_str: 1.4mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140551/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140551/
+06-Transformations-2-before.pdf:
+  filename: 06-Transformations-2-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 320915
+  size_str: 0.3mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140552/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140552/
+06-Transformations-2-post.pdf:
+  filename: 06-Transformations-2-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 2042985
+  size_str: 2.0mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140554/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140554/
+07-TransformMath-before.pdf:
+  filename: 07-TransformMath-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 181802
+  size_str: 0.2mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140556/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140556/
+07-TransformMath-post.pdf:
+  filename: 07-TransformMath-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1129972
+  size_str: 1.1mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140557/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140557/
+08-MoreTransformMath-before.pdf:
+  filename: 08-MoreTransformMath-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 176064
+  size_str: 0.2mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140558/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140558/
+08-MoreTransformMath-post.pdf:
+  filename: 08-MoreTransformMath-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 2089932
+  size_str: 2.1mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140559/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140559/
+09-Curves-before.pdf:
+  filename: 09-Curves-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 288690
+  size_str: 0.3mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140563/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140563/
+09-Curves-post.pdf:
+  filename: 09-Curves-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1358091
+  size_str: 1.4mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140567/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140567/
+10-Curves2-before.pdf:
+  filename: 10-Curves2-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 141676
+  size_str: 0.1mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140568/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140568/
+10-Curves2-post.pdf:
+  filename: 10-Curves2-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 2686447
+  size_str: 2.7mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140582/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140582/
+11-Curves3-before.pdf:
+  filename: 11-Curves3-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 178775
+  size_str: 0.2mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140575/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140575/
+11-Curves3-post.pdf:
+  filename: 11-Curves3-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1858236
+  size_str: 1.9mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140576/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140576/
+11-X-BezierReview-post.pdf:
+  filename: 11-X-BezierReview-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1428920
+  size_str: 1.4mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140574/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140574/
+12-3D-before.pdf:
+  filename: 12-3D-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1197468
+  size_str: 1.2mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140579/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140579/
+12-3D-post.pdf:
+  filename: 12-3D-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1658532
+  size_str: 1.7mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140580/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140580/
+13-More3D-before.pdf:
+  filename: 13-More3D-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 3428234
+  size_str: 3.4mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140585/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140585/
+13-More3D-post.pdf:
+  filename: 13-More3D-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1566259
+  size_str: 1.6mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140587/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140587/
+14-3D3-before.pdf:
+  filename: 14-3D3-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 3120398
+  size_str: 3.1mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140596/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140596/
+14-3D3-post.pdf:
+  filename: 14-3D3-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 4387699
+  size_str: 4.4mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140597/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140597/
+14-a-Perspective-post.pdf:
+  filename: 14-a-Perspective-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 3005287
+  size_str: 3.0mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140601/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140601/
+14-b-lighting-post.pdf:
+  filename: 14-b-lighting-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 359573
+  size_str: 0.4mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140602/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140602/
+14-c-animation-post.pdf:
+  filename: 14-c-animation-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 54863
+  size_str: 0.1mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140600/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140600/
+15-Rotations-before.pdf:
+  filename: 15-Rotations-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 210596
+  size_str: 0.2mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140606/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140606/
+15-Rotations-post.pdf:
+  filename: 15-Rotations-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 821530
+  size_str: 0.8mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140607/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140607/
+16a-Meshes-before.pdf:
+  filename: 16a-Meshes-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 551531
+  size_str: 0.6mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140609/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140609/
+16a-Meshes-post.pdf:
+  filename: 16a-Meshes-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1806386
+  size_str: 1.8mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140630/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140630/
+17A-Texture-was19-1-textures-review-before.pdf:
+  filename: 17A-Texture-was19-1-textures-review-before.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 780214
+  size_str: 0.8mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140610/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140610/
+17A-Texture-was19-1-textures-review-post.pdf:
+  filename: 17A-Texture-was19-1-textures-review-post.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 1052346
+  size_str: 1.1mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140611/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140611/
+17B-Texture-was18b-texture-basics-before.pdf:
+  filename: 17B-Texture-was18b-texture-basics-before.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 70469
+  size_str: 0.1mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140625/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140625/
+17B-Texture-was18b-texture-basics-post.pdf:
+  filename: 17B-Texture-was18b-texture-basics-post.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 1116917
+  size_str: 1.1mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140612/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140612/
+17C-TextureInThree-before.pdf:
+  filename: 17C-TextureInThree-before.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 74187
+  size_str: 0.1mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140626/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140626/
+17C-TextureInThree-post.pdf:
+  filename: 17C-TextureInThree-post.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 256483
+  size_str: 0.3mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140613/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140613/
+17D-Texture-was18d-texture-details-before.pdf:
+  filename: 17D-Texture-was18d-texture-details-before.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 2795244
+  size_str: 2.8mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140624/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140624/
+17D-Texture-was18d-texture-details-post.pdf:
+  filename: 17D-Texture-was18d-texture-details-post.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 4798672
+  size_str: 4.8mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140615/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140615/
+17X-Texture-was18-texture-all-post.pdf:
+  filename: 17X-Texture-was18-texture-all-post.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 6364253
+  size_str: 6.4mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140616/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140616/
+18A-Texture-was19-1-textures-review-before.pdf:
+  filename: 18A-Texture-was19-1-textures-review-before.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 772537
+  size_str: 0.8mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140617/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140617/
+18A-Texture-was19-1-textures-review-post.pdf:
+  filename: 18A-Texture-was19-1-textures-review-post.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 1283658
+  size_str: 1.3mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140629/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140629/
+18B-Texture-was19-2-texures-normals-before.pdf:
+  filename: 18B-Texture-was19-2-texures-normals-before.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 3555339
+  size_str: 3.6mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140619/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140619/
+18B-Texture-was19-2-texures-normals-post.pdf:
+  filename: 18B-Texture-was19-2-texures-normals-post.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 4313783
+  size_str: 4.3mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140614/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140614/
+18C-Texture-was19-3-texture-other-before.pdf:
+  filename: 18C-Texture-was19-3-texture-other-before.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 3984297
+  size_str: 4.0mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140627/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140627/
+18C-Texture-was19-3-texture-other-post.pdf:
+  filename: 18C-Texture-was19-3-texture-other-post.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 4928776
+  size_str: 4.9mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140618/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140618/
+18D-Texture-was19-4-texture-environ-before.pdf:
+  filename: 18D-Texture-was19-4-texture-environ-before.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 7611242
+  size_str: 7.6mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140620/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140620/
+18D-Texture-was19-4-texture-environ-post.pdf:
+  filename: 18D-Texture-was19-4-texture-environ-post.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 8476361
+  size_str: 8.5mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140628/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140628/
+18E-Texture-was19-5-texture-shadows-before.pdf:
+  filename: 18E-Texture-was19-5-texture-shadows-before.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 39924
+  size_str: 0.0mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140622/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140622/
+18E-Texture-was19-5-texture-shadows-post.pdf:
+  filename: 18E-Texture-was19-5-texture-shadows-post.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 506029
+  size_str: 0.5mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140621/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140621/
+18X-Texture-was19-all-post.pdf:
+  filename: 18X-Texture-was19-all-post.pdf
+  folder: 17-18-Texture
+  folder_path: course files/Lecture Notes-2022/17-18-Texture
+  size: 18929284
+  size_str: 18.9mb
+  updated: 2023-01-12 13:03:16-06:00
+  url: https://canvas.wisc.edu/files/30140623/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140623/
+18e-textures-review-post.pdf:
+  filename: 18e-textures-review-post.pdf
+  folder: LectureNotes-2021-Recommended
+  folder_path: course files/LectureNotes-2021-Recommended
+  size: 1039293
+  size_str: 1.0mb
+  updated: 2023-01-12 09:13:27-06:00
+  url: https://canvas.wisc.edu/files/30140599/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140599/
+19-Drawing-3D-post.pdf:
+  filename: 19-Drawing-3D-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1006758
+  size_str: 1.0mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140657/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140657/
+19-Drawing-3D.before.pdf:
+  filename: 19-Drawing-3D.before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 159268
+  size_str: 0.2mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140656/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140656/
+20-Pipeline-before.pdf:
+  filename: 20-Pipeline-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 923631
+  size_str: 0.9mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140659/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140659/
+20-Pipeline-post.pdf:
+  filename: 20-Pipeline-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1722971
+  size_str: 1.7mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140660/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140660/
+21-Shaders1-before.pdf:
+  filename: 21-Shaders1-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 256766
+  size_str: 0.3mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140665/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140665/
+21-Shaders1-post.pdf:
+  filename: 21-Shaders1-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1174127
+  size_str: 1.2mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140666/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140666/
+22-Shaders2-before.pdf:
+  filename: 22-Shaders2-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 4628257
+  size_str: 4.6mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140451/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140451/
+22-Shaders2-post.pdf:
+  filename: 22-Shaders2-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 5209165
+  size_str: 5.2mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140452/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140452/
+23-Shaders3-before.pdf:
+  filename: 23-Shaders3-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 5944970
+  size_str: 5.9mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140604/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140604/
+23-Shaders3-post.pdf:
+  filename: 23-Shaders3-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 6866248
+  size_str: 6.9mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140605/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140605/
+24-InteractiveTricks-before.pdf:
+  filename: 24-InteractiveTricks-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 3122283
+  size_str: 3.1mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140608/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140608/
+24-InteractiveTricks-post.pdf:
+  filename: 24-InteractiveTricks-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 3372863
+  size_str: 3.4mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140631/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140631/
+25-ShapeAndDeformation-before.pdf:
+  filename: 25-ShapeAndDeformation-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 843523
+  size_str: 0.8mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140634/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140634/
+25-ShapeAndDeformation-post.pdf:
+  filename: 25-ShapeAndDeformation-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1748214
+  size_str: 1.7mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140635/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140635/
+26-Subdivision-before.pdf:
+  filename: 26-Subdivision-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 3934891
+  size_str: 3.9mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140653/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140653/
+26-Subdivision-post.pdf:
+  filename: 26-Subdivision-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 5139620
+  size_str: 5.1mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140654/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140654/
+27-raster-alias-before.pdf:
+  filename: 27-raster-alias-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 416985
+  size_str: 0.4mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140663/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140663/
+27-raster-alias-post.pdf:
+  filename: 27-raster-alias-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1054601
+  size_str: 1.1mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140664/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140664/
+28-Raytracing-before.pdf:
+  filename: 28-Raytracing-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 564846
+  size_str: 0.6mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140668/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140668/
+28-Raytracing-post.pdf:
+  filename: 28-Raytracing-post.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 1520679
+  size_str: 1.5mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140667/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140667/
+Async-before.pdf:
+  filename: Async-before.pdf
+  folder: Lecture Notes-2022
+  folder_path: course files/Lecture Notes-2022
+  size: 83011
+  size_str: 0.1mb
+  updated: 2023-01-12 13:03:14-06:00
+  url: https://canvas.wisc.edu/files/30140598/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140598/
 FCG4_Ch01.pdf:
   filename: FCG4_Ch01.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 172956
   size_str: 0.2mb
-  updated: 2022-01-14 15:57:16-06:00
-  url: https://canvas.wisc.edu/files/23924304/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924304/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140516/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140516/
 FCG4_Ch02.pdf:
   filename: FCG4_Ch02.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 712230
   size_str: 0.7mb
-  updated: 2022-01-15 14:29:13-06:00
-  url: https://canvas.wisc.edu/files/23924321/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924321/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140523/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140523/
 FCG4_Ch03.pdf:
   filename: FCG4_Ch03.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 575792
   size_str: 0.6mb
-  updated: 2022-01-15 14:29:21-06:00
-  url: https://canvas.wisc.edu/files/23924285/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924285/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140521/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140521/
 FCG4_Ch04.pdf:
   filename: FCG4_Ch04.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 698899
   size_str: 0.7mb
-  updated: 2022-01-15 14:29:28-06:00
-  url: https://canvas.wisc.edu/files/23924316/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924316/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140464/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140464/
 FCG4_Ch05.pdf:
   filename: FCG4_Ch05.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 486877
   size_str: 0.5mb
-  updated: 2022-01-15 14:29:35-06:00
-  url: https://canvas.wisc.edu/files/23924317/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924317/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140518/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140518/
 FCG4_Ch06.pdf:
   filename: FCG4_Ch06.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 478326
   size_str: 0.5mb
-  updated: 2022-01-15 14:29:46-06:00
-  url: https://canvas.wisc.edu/files/23924322/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924322/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140519/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140519/
 FCG4_Ch07.pdf:
   filename: FCG4_Ch07.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 521258
   size_str: 0.5mb
-  updated: 2022-01-15 14:29:51-06:00
-  url: https://canvas.wisc.edu/files/23924323/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924323/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140520/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140520/
 FCG4_Ch08.pdf:
   filename: FCG4_Ch08.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 635469
   size_str: 0.6mb
-  updated: 2022-01-15 14:29:57-06:00
-  url: https://canvas.wisc.edu/files/23924288/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924288/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140525/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140525/
 FCG4_Ch10.pdf:
   filename: FCG4_Ch10.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 769954
   size_str: 0.8mb
-  updated: 2022-01-15 14:30:02-06:00
-  url: https://canvas.wisc.edu/files/23924268/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924268/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140526/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140526/
 FCG4_Ch11.pdf:
   filename: FCG4_Ch11.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 6050501
   size_str: 6.1mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924297/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924297/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140506/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140506/
 FCG4_Ch12.pdf:
   filename: FCG4_Ch12.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 866167
   size_str: 0.9mb
-  updated: 2022-01-15 14:30:20-06:00
-  url: https://canvas.wisc.edu/files/23924301/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924301/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140527/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140527/
 FCG4_Ch13.pdf:
   filename: FCG4_Ch13.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 1040870
   size_str: 1.0mb
-  updated: 2022-01-15 14:30:27-06:00
-  url: https://canvas.wisc.edu/files/23924300/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924300/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140480/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140480/
 FCG4_Ch15.pdf:
   filename: FCG4_Ch15.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 460447
   size_str: 0.5mb
-  updated: 2022-01-15 14:30:38-06:00
-  url: https://canvas.wisc.edu/files/23924298/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924298/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140455/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140455/
 FCG4_Ch16.pdf:
   filename: FCG4_Ch16.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 2468394
   size_str: 2.5mb
-  updated: 2022-01-15 14:30:45-06:00
-  url: https://canvas.wisc.edu/files/23924302/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924302/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140473/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140473/
 FCG4_Ch17.pdf:
   filename: FCG4_Ch17.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 2223902
   size_str: 2.2mb
-  updated: 2022-01-15 14:30:51-06:00
-  url: https://canvas.wisc.edu/files/23924292/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924292/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140465/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140465/
 FCG4_Ch18.pdf:
   filename: FCG4_Ch18.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 476401
   size_str: 0.5mb
-  updated: 2022-01-15 14:30:58-06:00
-  url: https://canvas.wisc.edu/files/23924296/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924296/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140522/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140522/
 FCG4_Ch19.pdf:
   filename: FCG4_Ch19.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 576022
   size_str: 0.6mb
-  updated: 2022-01-15 14:31:04-06:00
-  url: https://canvas.wisc.edu/files/23924266/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924266/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140507/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140507/
 FCG4_Ch20.pdf:
   filename: FCG4_Ch20.pdf
   folder: FundamentalsOfComputerGraphics
-  folder_path: course files/FundamentalsOfComputerGraphics
+  folder_path: course files/Books/FundamentalsOfComputerGraphics
   size: 4441859
   size_str: 4.4mb
-  updated: 2022-01-15 14:31:14-06:00
-  url: https://canvas.wisc.edu/files/23924295/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924295/
+  updated: 2023-01-12 13:03:03-06:00
+  url: https://canvas.wisc.edu/files/30140511/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140511/
 Hart-everything-18Jan19.pdf:
   filename: Hart-everything-18Jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 52314385
   size_str: 52.3mb
-  updated: 2022-01-15 09:53:31-06:00
-  url: https://canvas.wisc.edu/files/23924324/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924324/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140517/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140517/
 Hart01-jan19.pdf:
   filename: Hart01-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 999148
   size_str: 1.0mb
-  updated: 2022-01-15 14:31:37-06:00
-  url: https://canvas.wisc.edu/files/23924307/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924307/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140528/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140528/
 Hart02-jan19.pdf:
   filename: Hart02-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 751020
   size_str: 0.8mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924400/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924400/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140467/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140467/
 Hart03-jan19.pdf:
   filename: Hart03-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 1067666
   size_str: 1.1mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924275/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924275/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140589/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140589/
 Hart04-jan19.pdf:
   filename: Hart04-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 2360578
   size_str: 2.4mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924308/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924308/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140537/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140537/
 Hart05-jan19.pdf:
   filename: Hart05-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 2735632
   size_str: 2.7mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924373/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924373/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140562/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140562/
 Hart06-jan19.pdf:
   filename: Hart06-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 2251121
   size_str: 2.3mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924331/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924331/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140487/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140487/
 Hart07-jan19.pdf:
   filename: Hart07-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 14527676
   size_str: 14.5mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924370/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924370/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140550/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140550/
 Hart08-jan19.pdf:
   filename: Hart08-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 1670214
   size_str: 1.7mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924488/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924488/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140468/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140468/
 Hart09-jan19.pdf:
   filename: Hart09-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 6856989
   size_str: 6.9mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924531/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924531/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140586/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140586/
 Hart12-jan19.pdf:
   filename: Hart12-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 738497
   size_str: 0.7mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924532/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924532/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140588/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140588/
 Hart13-jan19.pdf:
   filename: Hart13-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 534186
   size_str: 0.5mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924533/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924533/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140581/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140581/
 Hart14-jan19.pdf:
   filename: Hart14-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 3073464
   size_str: 3.1mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924330/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924330/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140491/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140491/
 Hart15-jan19.pdf:
   filename: Hart15-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 7621648
   size_str: 7.6mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924290/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924290/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140493/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140493/
 Hart16-jan19.pdf:
   filename: Hart16-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 1111604
   size_str: 1.1mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924409/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924409/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140591/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140591/
 Hart20-jan19.pdf:
   filename: Hart20-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 2438296
   size_str: 2.4mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924312/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924312/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140486/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140486/
 Hart21-jan19.pdf:
   filename: Hart21-jan19.pdf
   folder: Hart Book
-  folder_path: course files/Hart Book
+  folder_path: course files/Books/Hart Book
   size: 1259203
   size_str: 1.3mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924287/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924287/
+  updated: 2023-01-12 13:03:07-06:00
+  url: https://canvas.wisc.edu/files/30140590/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140590/
 OpenGLShading-Ch1.pdf:
   filename: OpenGLShading-Ch1.pdf
   folder: OpenGLShadingLanguage
-  folder_path: course files/OpenGLShadingLanguage
+  folder_path: course files/Books/OpenGLShadingLanguage
   size: 534292
   size_str: 0.5mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924319/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924319/
+  updated: 2023-01-12 13:03:22-06:00
+  url: https://canvas.wisc.edu/files/30140536/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140536/
 OpenGLShading-Ch2.pdf:
   filename: OpenGLShading-Ch2.pdf
   folder: OpenGLShadingLanguage
-  folder_path: course files/OpenGLShadingLanguage
+  folder_path: course files/Books/OpenGLShadingLanguage
   size: 710252
   size_str: 0.7mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924309/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924309/
+  updated: 2023-01-12 13:03:22-06:00
+  url: https://canvas.wisc.edu/files/30140461/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140461/
 OpenGLShading-Ch3.pdf:
   filename: OpenGLShading-Ch3.pdf
   folder: OpenGLShadingLanguage
-  folder_path: course files/OpenGLShadingLanguage
+  folder_path: course files/Books/OpenGLShadingLanguage
   size: 220249
   size_str: 0.2mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924310/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924310/
+  updated: 2023-01-12 13:03:22-06:00
+  url: https://canvas.wisc.edu/files/30140514/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140514/
 OpenGLShading-Ch4.pdf:
   filename: OpenGLShading-Ch4.pdf
   folder: OpenGLShadingLanguage
-  folder_path: course files/OpenGLShadingLanguage
+  folder_path: course files/Books/OpenGLShadingLanguage
   size: 153478
   size_str: 0.2mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924276/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924276/
+  updated: 2023-01-12 13:03:22-06:00
+  url: https://canvas.wisc.edu/files/30140456/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140456/
 OpenGLShading-Ch5.pdf:
   filename: OpenGLShading-Ch5.pdf
   folder: OpenGLShadingLanguage
-  folder_path: course files/OpenGLShadingLanguage
+  folder_path: course files/Books/OpenGLShadingLanguage
   size: 603804
   size_str: 0.6mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924305/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924305/
+  updated: 2023-01-12 13:03:22-06:00
+  url: https://canvas.wisc.edu/files/30140490/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140490/
 OpenGLShading-Ch6.pdf:
   filename: OpenGLShading-Ch6.pdf
   folder: OpenGLShadingLanguage
-  folder_path: course files/OpenGLShadingLanguage
+  folder_path: course files/Books/OpenGLShadingLanguage
   size: 488694
   size_str: 0.5mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924325/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924325/
+  updated: 2023-01-12 13:03:22-06:00
+  url: https://canvas.wisc.edu/files/30140569/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140569/
 RTR4_Ch02.pdf:
   filename: RTR4_Ch02.pdf
   folder: Real-Time-Rendering
-  folder_path: course files/Real-Time-Rendering
+  folder_path: course files/Books/Real-Time-Rendering
   size: 1090435
   size_str: 1.1mb
-  updated: 2022-01-15 14:34:00-06:00
-  url: https://canvas.wisc.edu/files/23924291/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924291/
+  updated: 2023-01-12 13:03:27-06:00
+  url: https://canvas.wisc.edu/files/30140508/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140508/
 RTR4_Ch03.pdf:
   filename: RTR4_Ch03.pdf
   folder: Real-Time-Rendering
-  folder_path: course files/Real-Time-Rendering
+  folder_path: course files/Books/Real-Time-Rendering
   size: 14084701
   size_str: 14.1mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924261/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924261/
+  updated: 2023-01-12 13:03:27-06:00
+  url: https://canvas.wisc.edu/files/30140502/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140502/
 RTR4_Ch04.pdf:
   filename: RTR4_Ch04.pdf
   folder: Real-Time-Rendering
-  folder_path: course files/Real-Time-Rendering
+  folder_path: course files/Books/Real-Time-Rendering
   size: 68151334
   size_str: 68.2mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924293/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924293/
+  updated: 2023-01-12 13:03:27-06:00
+  url: https://canvas.wisc.edu/files/30140460/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140460/
 RTR4_Ch05.pdf:
   filename: RTR4_Ch05.pdf
   folder: Real-Time-Rendering
-  folder_path: course files/Real-Time-Rendering
+  folder_path: course files/Books/Real-Time-Rendering
   size: 48910699
   size_str: 48.9mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924294/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924294/
+  updated: 2023-01-12 13:03:27-06:00
+  url: https://canvas.wisc.edu/files/30140488/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140488/
 RTR4_Ch06.pdf:
   filename: RTR4_Ch06.pdf
   folder: Real-Time-Rendering
-  folder_path: course files/Real-Time-Rendering
+  folder_path: course files/Books/Real-Time-Rendering
   size: 64047375
   size_str: 64.0mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924262/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924262/
+  updated: 2023-01-12 13:03:27-06:00
+  url: https://canvas.wisc.edu/files/30140463/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140463/
 RTR4_Ch07.pdf:
   filename: RTR4_Ch07.pdf
   folder: Real-Time-Rendering
-  folder_path: course files/Real-Time-Rendering
+  folder_path: course files/Books/Real-Time-Rendering
   size: 34638176
   size_str: 34.6mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924311/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924311/
+  updated: 2023-01-12 13:03:27-06:00
+  url: https://canvas.wisc.edu/files/30140658/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140658/
 RTR4_Ch09.pdf:
   filename: RTR4_Ch09.pdf
   folder: Real-Time-Rendering
-  folder_path: course files/Real-Time-Rendering
+  folder_path: course files/Books/Real-Time-Rendering
   size: 116541605
   size_str: 116.5mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924299/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924299/
+  updated: 2023-01-12 13:03:27-06:00
+  url: https://canvas.wisc.edu/files/30140504/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140504/
 RTR4_Ch10_local_lighting.pdf:
   filename: RTR4_Ch10_local_lighting.pdf
   folder: Real-Time-Rendering
-  folder_path: course files/Real-Time-Rendering
+  folder_path: course files/Books/Real-Time-Rendering
   size: 60613202
   size_str: 60.6mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924320/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924320/
+  updated: 2023-01-12 13:03:27-06:00
+  url: https://canvas.wisc.edu/files/30140470/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140470/
 RTR4_Ch13.pdf:
   filename: RTR4_Ch13.pdf
   folder: Real-Time-Rendering
-  folder_path: course files/Real-Time-Rendering
+  folder_path: course files/Books/Real-Time-Rendering
   size: 55938603
   size_str: 55.9mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924303/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924303/
+  updated: 2023-01-12 13:03:27-06:00
+  url: https://canvas.wisc.edu/files/30140479/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140479/
 RTR4_Ch17_curves.pdf:
   filename: RTR4_Ch17_curves.pdf
   folder: Real-Time-Rendering
-  folder_path: course files/Real-Time-Rendering
+  folder_path: course files/Books/Real-Time-Rendering
   size: 52002100
   size_str: 52.0mb
-  updated: 2022-01-14 11:20:21-06:00
-  url: https://canvas.wisc.edu/files/23924286/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924286/
+  updated: 2023-01-12 13:03:27-06:00
+  url: https://canvas.wisc.edu/files/30140655/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140655/
 lecture02closures-before.pdf:
   filename: lecture02closures-before.pdf
   folder: LectureNotes-2021-Recommended
   folder_path: course files/LectureNotes-2021-Recommended
   size: 155147
   size_str: 0.2mb
-  updated: 2022-01-16 21:46:22-06:00
-  url: https://canvas.wisc.edu/files/23924363/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924363/
+  updated: 2023-01-12 09:13:19-06:00
+  url: https://canvas.wisc.edu/files/30140469/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140469/
 lecture02closures-post.pdf:
   filename: lecture02closures-post.pdf
   folder: LectureNotes-2021-Recommended
   folder_path: course files/LectureNotes-2021-Recommended
   size: 1824100
   size_str: 1.8mb
-  updated: 2022-01-16 21:42:49-06:00
-  url: https://canvas.wisc.edu/files/23924362/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924362/
+  updated: 2023-01-12 09:13:20-06:00
+  url: https://canvas.wisc.edu/files/30140481/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140481/
 pla_chapter_1.pdf:
   filename: pla_chapter_1.pdf
   folder: PracticalLinearAlgebra
-  folder_path: course files/PracticalLinearAlgebra
+  folder_path: course files/Books/PracticalLinearAlgebra
   size: 345069
   size_str: 0.3mb
-  updated: 2022-01-15 14:33:24-06:00
-  url: https://canvas.wisc.edu/files/23924289/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924289/
+  updated: 2023-01-12 13:03:22-06:00
+  url: https://canvas.wisc.edu/files/30140529/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140529/
 pla_chapter_2.pdf:
   filename: pla_chapter_2.pdf
   folder: PracticalLinearAlgebra
-  folder_path: course files/PracticalLinearAlgebra
+  folder_path: course files/Books/PracticalLinearAlgebra
   size: 483924
   size_str: 0.5mb
-  updated: 2022-01-15 14:33:30-06:00
-  url: https://canvas.wisc.edu/files/23924326/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924326/
+  updated: 2023-01-12 13:03:22-06:00
+  url: https://canvas.wisc.edu/files/30140530/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140530/
 pla_chapter_4.pdf:
   filename: pla_chapter_4.pdf
   folder: PracticalLinearAlgebra
-  folder_path: course files/PracticalLinearAlgebra
+  folder_path: course files/Books/PracticalLinearAlgebra
   size: 439756
   size_str: 0.4mb
-  updated: 2022-01-15 14:33:34-06:00
-  url: https://canvas.wisc.edu/files/23924306/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/23924306/
+  updated: 2023-01-12 13:03:22-06:00
+  url: https://canvas.wisc.edu/files/30140472/download?download_frd=1
+  url_nodl: https://canvas.wisc.edu/files/30140472/
