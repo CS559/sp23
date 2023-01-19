@@ -36,6 +36,10 @@ outline-2021:
 outline-2022:
   name: "2022 Course Outline with Video Links"
   url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/lecture-materials/
+outline-2023:
+  name: "2022 Course Outline with Video Links"
+  url: https://pages.graphics.cs.wisc.edu/559-sp23/pages/lecture-materials/
+
 
 ## Class Videos
 video-git-a:
