@@ -10,6 +10,20 @@
 #   cweb - things on the course web that workbooks refer to
 #   cfile - canvas files (auto generated db)
 
+## Forms for 2023
+regrade-form:
+  name: "Regrade Form"
+  url: "https://pages.graphics.cs.wisc.edu/559-sp23/coming-soon.html"
+appointment-scheduling-form:
+  name: "Appointment Scheduling Form"
+  url: "https://pages.graphics.cs.wisc.edu/559-sp23/coming-soon.html"
+consulting-assistance-form:
+  name: "Consulting Assistance Form"
+  url: "https://pages.graphics.cs.wisc.edu/559-sp23/coming-soon.html"
+very-late-form:
+  name: "Very Late Workbook Form"
+  url: "https://pages.graphics.cs.wisc.edu/559-sp23/coming-soon.html"
+
 ## Forms for 2022
 regrade-form22:
   name: "Regrade Form"
