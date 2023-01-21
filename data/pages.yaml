@@ -152,6 +152,9 @@ mozilla-svg:
   url: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 
 # CS559 Tutorials Past
+tutorials:
+  url: https://cs559.github.io/559Tutorials
+  name: "CS559 Tutorials"
 color:
   url: https://cs559.github.io/559Tutorials/color/color1/
   name: "CS559 Color Tutorial"
