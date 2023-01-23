@@ -220,6 +220,9 @@ books:
 traditional-oop-js:
   name: "Traditional Object Oriented Programming in JavaScript"
   url: https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
+grading:
+  url: https://pages.graphics.cs.wisc.edu/559-sp23/pages/grading/
+  name: "Grading explanation"
 
 # Web tutorials and references
 request-animation-frame:
