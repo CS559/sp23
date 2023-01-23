@@ -248,7 +248,7 @@ closure-tutorial-video:
   name: "Closure Tutorial"
 debug-tutorial:
   url: https://github.com/CS559/DebuggerTutorial
-  name: "Debugger Tutorial #1"
+  name: "Debugger Tutorial (GitHub Repository)"
 canvas-cheat-sheet:
   url: https://simon.html5.org/dump/html5-canvas-cheat-sheet.html
   name: "Canvas Cheat Sheet: "
