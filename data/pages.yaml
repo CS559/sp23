@@ -111,7 +111,7 @@ canvas-zoom:
   name: "Canvas Zoom List"
   url: https://canvas.wisc.edu/courses/343665/external_tools/14065
 canvas-calendar:
-  name: "Canvas Calendar (no Zoom?)"
+  name: "Canvas Calendar"
   url: https://canvas.wisc.edu/calendar?include_contexts=course_343665
 canvas-summary:
   name: "Canvas Summary (calendar list)"
