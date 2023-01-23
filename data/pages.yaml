@@ -42,6 +42,9 @@ very-late-form22:
 gleicher-home:
   name: "Gleicher's Home Page"
   url: https://gleicher.sites.cs.wisc.edu/
+mediaspace:
+  name: "Media Space Channel"
+  url: https://mediaspace.wisc.edu/channel/CS559%2BSpring%2B2023%2B-%2BComputer%2BGraphics%2BLectures%2Band%2BVideos/288831802
 
 ## Links to Last Year's Class (generally should be avoided)
 outline-2021:
