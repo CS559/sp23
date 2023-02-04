@@ -270,6 +270,9 @@ marinacci-canvas-ch01:
 transform-demos:
   name: "2D Transform Demos"
   url: https://cs559.github.io/2DTransformDemos/
+transform-toy-default:
+  url: https://cs559.github.io/2DTransformDemos/transformToy.html
+  name: "2D Transform Toy (default demos)"
 
 # Kaltura
 DeCastlejau_2:
@@ -652,3 +655,16 @@ grtown-instructions-attribution:
   url: https:/pages.graphics.cs.wisc.edu/559-sp22/grtown/grtown/#collaboration-use-re-use-and-attribution
   name: "2022 Graphics Town Attribution Instructions"
 
+# Seitz Videos
+graphics-5-min-uw:
+  url: https://g5m.cs.washington.edu/
+  name: "Graphics in 5 Minutes Explanation"
+graphics-5-min-yt:
+  url: https://www.youtube.com/playlist?list=PLWfDJ5nla8UpwShx-lzLJqcp575fKpsSO
+  name: "Graphics in 5 Minutes You Tube Channel"
+g5m-1-affine:
+  url: https://youtu.be/AheaTd_l5Is
+  name: "Affine Transformations in 5 Minutes"
+g5m-2-hierarchy:
+  url: https://youtu.be/4iNJdWXsFQ4
+  name: "Hierarchical Modeling in 5 Minutes"
