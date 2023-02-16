@@ -54,7 +54,7 @@ outline-2022:
   name: "2022 Course Outline with Video Links"
   url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/lecture-materials/
 outline-2023:
-  name: "2022 Course Outline with Video Links"
+  name: "2023 Course Outline with Video Links"
   url: https://pages.graphics.cs.wisc.edu/559-sp23/pages/lecture-materials/
 
 
@@ -668,3 +668,11 @@ g5m-1-affine:
 g5m-2-hierarchy:
   url: https://youtu.be/4iNJdWXsFQ4
   name: "Hierarchical Modeling in 5 Minutes"
+
+# other videos
+beauty-of-bezier:
+  url: https://www.youtube.com/watch?v=aVwxzDHniEw
+  name: The Beauty of Bezier Curves
+continuity-of-splines:
+  name: The Continuity of Splines
+  url: https://www.youtube.com/watch?v=jvPPXbo87ds
