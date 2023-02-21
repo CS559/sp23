@@ -630,7 +630,7 @@ wb03-gallery-21:
 # 2022 Galleries
 gallery-22:
   url: https://pages.graphics.cs.wisc.edu/559-sp22/gallery/
-  name "2022 Gallery Index"
+  name: "2022 Gallery Index"
 wb02-gallery-22:
   url: https://pages.graphics.cs.wisc.edu/559-sp22/gallery/gallery02/
   name: "2022 Workbook 2 Gallery"
