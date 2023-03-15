@@ -560,13 +560,19 @@ roof-types:
   name: "this page"
 360toolkit-cubemap-converter:
   url: https://www.360toolkit.co/convert-spherical-equirectangular-to-cubemap
-  name: "handy web converter"
+  name: "defunct web converter"
+panorama-to-cubemap:
+  url: https://jaxry.github.io/panorama-to-cubemap/
+  name: "Panorama Converter on GitHub"
 polyhaven:
   url: https://polyhaven.com/
   name: "Poly Haven"
-bourke-cubemaps:
+bourke:
   url: http://paulbourke.net/
   name: "Site with lots of information on 360 photography, but it was re-organized so I don't know where the relevant pages are."
+bourke-cubemaps:
+  url: http://paulbourke.net/panorama/cubemaps/
+  name: "Paul Bourke's Cubemap Conversion Page"
 shader-frog:
   url: https://shaderfrog.com/
   name: "ShaderFrog"
