@@ -455,11 +455,11 @@ threejs-texture:
   url: https://threejs.org/docs/#api/en/textures/Texture
   name: "`Texture`"
 discoverthreejs-transformations-tutorial:
-  url: https://discoverthreejs.com/book/1-first-steps/6-shapes-transformations/
-  name: "this tutorial"
+  url: https://discoverthreejs.com/book/first-steps/transformations/
+  name: "the threejs transformations tutorial"
 discoverthreejs-textures-intro:
-  url: https://discoverthreejs.com/book/1-first-steps/4-textures-intro/
-  name: "this Discover ThreeJS tutorial"
+  url: https://discoverthreejs.com/book/first-steps/textures-intro/
+  name: "this Discover ThreeJS texture tutorial"
 threejsfundamentals-textures-tutorial:
   url: https://threejsfundamentals.org/threejs/lessons/threejs-textures.html
   name: "nice tutorial on texture mapping"
