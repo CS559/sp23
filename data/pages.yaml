@@ -646,23 +646,23 @@ wb03-gallery-22:
 
 # Graphics Town Things
 grtown-rubric:
-  url: https:/pages.graphics.cs.wisc.edu/559-sp22/grtown/rubric
-  name: "2022 Graphics Town Rubric"
+  url: https:/pages.graphics.cs.wisc.edu/559-sp23/grtown/rubric
+  name: "2023 Graphics Town Rubric"
 grtown-index:
-  url: https:/pages.graphics.cs.wisc.edu/559-sp22/grtown
-  name: "2022 Graphics Town Index"
+  url: https:/pages.graphics.cs.wisc.edu/559-sp23/grtown
+  name: "2023 Graphics Town Index"
 grtown-instructions:
-  url: https:/pages.graphics.cs.wisc.edu/559-sp22/grtown/grtown
-  name: "2022 Graphics Town Instructions"
+  url: https:/pages.graphics.cs.wisc.edu/559-sp23/grtown/grtown
+  name: "2023 Graphics Town Instructions"
 grtown-hints:
-  url: https:/pages.graphics.cs.wisc.edu/559-sp22/grtown/hints
-  name: "2022 Graphics Town Hints"
+  url: https:/pages.graphics.cs.wisc.edu/559-sp23/grtown/hints
+  name: "2023 Graphics Town Hints"
 grtown-advanced:
-  url: https:/pages.graphics.cs.wisc.edu/559-sp22/grtown/advaced
-  name: "2022 Graphics Town Advanced Things"
+  url: https:/pages.graphics.cs.wisc.edu/559-sp23/grtown/advaced
+  name: "2023 Graphics Town Advanced Things"
 grtown-instructions-attribution:
-  url: https:/pages.graphics.cs.wisc.edu/559-sp22/grtown/grtown/#collaboration-use-re-use-and-attribution
-  name: "2022 Graphics Town Attribution Instructions"
+  url: https:/pages.graphics.cs.wisc.edu/559-sp23/grtown/grtown/#collaboration-use-re-use-and-attribution
+  name: "2023 Graphics Town Attribution Instructions"
 
 # Seitz Videos
 graphics-5-min-uw:
