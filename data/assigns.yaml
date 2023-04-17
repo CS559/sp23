@@ -326,6 +326,14 @@ workbook-07-handin:
   name: Workbook 07 Handin
   shortname: Workbook 07 Handin
   url: https://canvas.wisc.edu/courses/343665/assignments/1844801
+workbook-08-grade:
+  due: &id011 2022-05-11 00:00:00
+  due_string: Wed, May 11
+  lock: *id011
+  lock_string: Wed, May 11
+  name: Workbook 08 Grade
+  shortname: Workbook 08 Grade
+  url: https://canvas.wisc.edu/courses/343665/assignments/1897500
 workbook-08-handin:
   due: 2023-04-03 23:59:59-05:00
   due_string: Mon, Apr 3
