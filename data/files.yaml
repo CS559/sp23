@@ -1,22 +1,7 @@
 # Fetched from Canvas Apr 16, 2023 - 08:36PM
-00-JSTips-before.pdf:
-  filename: 00-JSTips-before.pdf
-  folder: Lecture Notes-2022
-  folder_path: course files/Lecture Notes-2022
-  size: 151628
-  size_str: 0.2mb
-  updated: 2023-01-23 11:00:22-06:00
-  url: https://canvas.wisc.edu/files/30140577/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/30140577/
-00-JSTips-post.pdf:
-  filename: 00-JSTips-post.pdf
-  folder: Lecture Notes-2022
-  folder_path: course files/Lecture Notes-2022
-  size: 2053967
-  size_str: 2.1mb
-  updated: 2023-01-23 07:44:13-06:00
-  url: https://canvas.wisc.edu/files/30140578/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/30140578/
+# Note: removed files that should be linked to in LectureNotes
+# 00-JSTips-before.pdf:
+#00-JSTips-post.pdf:
 01-getting-started.pdf:
   filename: 01-getting-started.pdf
   folder: LectureNotes
@@ -26,24 +11,6 @@
   updated: 2023-01-24 15:03:04-06:00
   url: https://canvas.wisc.edu/files/30445348/download?download_frd=1
   url_nodl: https://canvas.wisc.edu/files/30445348/
-01git-A-git-for-workbooks-post.pdf:
-  filename: 01git-A-git-for-workbooks-post.pdf
-  folder: LectureNotes-2021-Recommended
-  folder_path: course files/LectureNotes-2021-Recommended
-  size: 2784036
-  size_str: 2.8mb
-  updated: 2023-01-22 21:38:46-06:00
-  url: https://canvas.wisc.edu/files/30140489/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/30140489/
-01git-B-how-git-works-post.pdf:
-  filename: 01git-B-how-git-works-post.pdf
-  folder: LectureNotes-2021-Recommended
-  folder_path: course files/LectureNotes-2021-Recommended
-  size: 886480
-  size_str: 0.9mb
-  updated: 2023-01-24 18:58:17-06:00
-  url: https://canvas.wisc.edu/files/30140454/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/30140454/
 02-Pre-Graphics-after.pdf:
   filename: 02-Pre-Graphics-after.pdf
   folder: LectureNotes
@@ -1556,24 +1523,8 @@ image.png:
   updated: 2023-03-02 14:01:20-06:00
   url: https://canvas.wisc.edu/files/31212173/download?download_frd=1
   url_nodl: https://canvas.wisc.edu/files/31212173/
-lecture02closures-before.pdf:
-  filename: lecture02closures-before.pdf
-  folder: LectureNotes-2021-Recommended
-  folder_path: course files/LectureNotes-2021-Recommended
-  size: 155147
-  size_str: 0.2mb
-  updated: 2023-01-24 18:56:52-06:00
-  url: https://canvas.wisc.edu/files/30140469/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/30140469/
-lecture02closures-post.pdf:
-  filename: lecture02closures-post.pdf
-  folder: LectureNotes-2021-Recommended
-  folder_path: course files/LectureNotes-2021-Recommended
-  size: 1824100
-  size_str: 1.8mb
-  updated: 2023-01-23 17:02:21-06:00
-  url: https://canvas.wisc.edu/files/30140481/download?download_frd=1
-  url_nodl: https://canvas.wisc.edu/files/30140481/
+#lecture02closures-before.pdf:
+#lecture02closures-post.pdf:
 mirror-reflect-matrix.png:
   filename: mirror-reflect-matrix.png
   folder: Uploaded Media
